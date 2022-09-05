@@ -1,4 +1,3 @@
-## Olá! Eu sou o Luiz Silva 
 <div align="center">
   <a href="https://github.com/luizdevbrasil">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizdevbrasil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
